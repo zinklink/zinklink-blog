@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://zinklink.github.io/zinklink-blog/'
+languageCode = 'zh-tw'
 title = 'My New Hugo Site'
 theme = 'anatole'
